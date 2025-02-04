@@ -1,5 +1,5 @@
 {
-    "name": "mon-projet-ia",
+    "name": "ia",
     "version": "1.0.0",
     "scripts": {
       "dev": "next dev",
